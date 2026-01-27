@@ -37,6 +37,10 @@
 
 ## 📫 Connect With Me
 - GitHub: [arghoghosh88](https://github.com/arghoghosh88)
+- Email: [arghoghosh88@gmail.com](mailto:arghoghosh88gmail.com)
+- LinkedIn: [Argho Ghosh](https://www.linkedin.com/in/argho-ghosh-10b403312/)
+- Instagram: [argho5987](https://www.instagram.com/argho5987/)
+- Facebook: [Argho Ghosh](https://www.facebook.com/argho.ghosh.168939)
 
 ---
 
