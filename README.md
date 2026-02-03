@@ -23,7 +23,7 @@
 ## 🧠 Competitive Programming Profiles
 
 ### 📈 Codeforces Stats
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_ID)](https://codeforces.com/profile/Arghobubt)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Arghobubt)](https://codeforces.com/profile/Arghobubt)
 
 ### 🔗 Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Arghobubt)
