@@ -20,6 +20,17 @@
 
 ---
 
+## 🧠 Competitive Programming Profiles
+
+### 📈 Codeforces Stats
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_ID)](https://codeforces.com/profile/Arghobubt)
+
+### 🔗 Profiles
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Arghobubt)
+[![VJudge](https://img.shields.io/badge/VJudge-2E3440?style=for-the-badge&logo=codeforces&logoColor=white)](https://vjudge.net/user/argho77)
+[![beecrowd](https://img.shields.io/badge/beecrowd-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://judge.beecrowd.com/en/profile/1164802)
+
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=arghoghosh88&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
