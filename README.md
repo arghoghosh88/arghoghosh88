@@ -23,9 +23,8 @@
 ## 🧠 Competitive Programming Profiles
 
 ### 📈 Codeforces Stats
-<a href="https://codeforces.com/profile/Arghobubt">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arghobubt" width="400"/>
-</a>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Arghobubt&scale=0.7&hide_title=true&hide_border=true)](https://codeforces.com/profile/Arghobubt)
+
 ### 🔗 Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Arghobubt)
 [![VJudge](https://img.shields.io/badge/VJudge-2E3440?style=for-the-badge&logo=codeforces&logoColor=white)](https://vjudge.net/user/argho77)
