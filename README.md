@@ -32,23 +32,6 @@ C++, C, Python, Web Development | Competitive Programmer | CSE Student at BUBT
 [![VJudge](https://img.shields.io/badge/VJudge-2E3440?style=for-the-badge&logo=codeforces&logoColor=white)](https://vjudge.net/user/argho77)
 [![beecrowd](https://img.shields.io/badge/beecrowd-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://judge.beecrowd.com/en/profile/1164802)
 
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=arghoghosh88&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-![Argho's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghoghosh88&show_icons=true&theme=dark)
-
-
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=arghoghosh88&theme=dark)
-
 ---
 
 ## 📫 Connect With Me
