@@ -47,15 +47,13 @@
 
 <p align="center">
   <a href="https://github.com/arghoghosh88">
-    <img src="https://img.shields.io/badge/GitHub-arghoghosh88-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" />
+    <img height="55" src="https://img.shields.io/badge/GitHub-arghoghosh88-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:arghoghosh88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
-  </a>
-  <a href="https://www.linkedin.com/in/argho-ghosh-10b403312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Argho_Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
+    <img height="55" src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
