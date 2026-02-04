@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Argho Ghosh</h1>
-<h3 align="center">C++, C, Python, Web Development | Programming Enthusiast | Student</h3>
+<h3 align="center">
+C++, C, Python, Web Development | Competitive Programmer | CSE Student at BUBT
+</h3>
 
 ---
 
 ## 🙋‍♂️ About Me
-- 🎓 Student learning **programming & web development**
-- 💻 Interested in **problem solving, coding & building projects**
-- 🌱 Currently improving my **data structures, file handling & web skills**
-- 🚀 Exploring **GitHub, open-source & full-stack basics**
+- 🎓 **CSE student at Bangladesh University of Business & Technology (BUBT)**
+- 🧠 **Competitive programmer**, actively practicing on Codeforces & VJudge
+- 🏆 **ICPC Asia Regional Contest 2025 — Participant**
+- 💻 Interested in **problem solving, algorithms & building real-world projects**
+- 🌱 Currently improving my **data structures, file handling & web development skills**
+- 🚀 Exploring **open-source, GitHub collaboration & full-stack fundamentals**
+
 
 ---
 
