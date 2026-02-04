@@ -40,10 +40,8 @@ C++, C, Python, Web Development | Competitive Programmer | CSE Student at BUBT
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arghoghosh88&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghoghosh88&layout=compact&theme=dark&hide_border=true" />
-</p>
+![Argho's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghoghosh88&show_icons=true&theme=dark)
+
 
 
 ---
