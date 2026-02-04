@@ -22,10 +22,6 @@
 
 ## 🧠 Competitive Programming Profiles
 
-### 📈 Codeforces Stats
-[![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/card?username=Arghobubt&theme=dark&scale=0.7&hide_border=true&hide_solved=true)](https://codeforces.com/profile/Arghobubt)
-
-
 ### 🔗 Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Arghobubt)
 [![VJudge](https://img.shields.io/badge/VJudge-2E3440?style=for-the-badge&logo=codeforces&logoColor=white)](https://vjudge.net/user/argho77)
@@ -48,11 +44,24 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: [arghoghosh88](https://github.com/arghoghosh88)
-- Email: [arghoghosh88@gmail.com](mailto:arghoghosh88gmail.com)
-- LinkedIn: [Argho Ghosh](https://www.linkedin.com/in/argho-ghosh-10b403312/)
-- Instagram: [argho5987](https://www.instagram.com/argho5987/)
-- Facebook: [Argho Ghosh](https://www.facebook.com/argho.ghosh.168939)
+
+<p align="center">
+  <a href="https://github.com/arghoghosh88">
+    <img src="https://img.shields.io/badge/GitHub-arghoghosh88-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:arghoghosh88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/argho-ghosh-10b403312/">
+    <img src="https://img.shields.io/badge/LinkedIn-Argho_Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/argho5987/">
+    <img src="https://img.shields.io/badge/Instagram-argho5987-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/argho.ghosh.168939">
+    <img src="https://img.shields.io/badge/Facebook-Argho_Ghosh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
