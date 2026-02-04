@@ -47,21 +47,16 @@
 
 <p align="center">
   <a href="https://github.com/arghoghosh88">
-    <img src="https://img.shields.io/badge/GitHub-arghoghosh88-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-arghoghosh88-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" />
   </a>
   <a href="mailto:arghoghosh88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
   </a>
   <a href="https://www.linkedin.com/in/argho-ghosh-10b403312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Argho_Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/argho5987/">
-    <img src="https://img.shields.io/badge/Instagram-argho5987-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/argho.ghosh.168939">
-    <img src="https://img.shields.io/badge/Facebook-Argho_Ghosh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Argho_Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
   </a>
 </p>
+
 
 ---
 
