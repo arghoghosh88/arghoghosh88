@@ -34,6 +34,20 @@ C++, C, Python, Web Development | Competitive Programmer | CSE Student at BUBT
 
 ---
 
+## ⭐ Top Repositories
+
+### 🔥 Featured Projects
+[![Repo 1](https://img.shields.io/badge/Repo-Project1-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argho88/Project1)  
+**Project1** – Brief description of what this project does.  
+
+[![Repo 2](https://img.shields.io/badge/Repo-Project2-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argho88/Project2)  
+**Project2** – Brief description of what this project does.  
+
+[![Repo 3](https://img.shields.io/badge/Repo-Project3-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argho88/Project3)  
+**Project3** – Brief description of what this project does.  
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
