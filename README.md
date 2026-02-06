@@ -55,6 +55,7 @@ C++, C, Python, Web Development | Competitive Programmer | CSE Student at BUBT
     <img src="https://img.shields.io/badge/Facebook-Argho_Ghosh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghoghosh88&layout=compact)](https://github.com/arghoghosh88/github-readme-stats)
 
 
 
